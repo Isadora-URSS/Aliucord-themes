@@ -1,0 +1,45 @@
+{
+    "manifest": {
+        "author": "Isadora ☭#2311",
+        "name": "Yamato (Shexyo)",
+        "version": "1.0.0",
+        "updater": "https:\/\/raw.githubusercontent.com\/Isadora-URSS\/Aliucord-themes\/main\/Yamato%20(Shexyo)\/Yamato%20(Shexyo).json"
+    },
+    "background": {
+        "url": "https:\/\/raw.githubusercontent.com\/Isadora-URSS\/Aliucord-themes\/main\/Yamato%20(Shexyo)\/Yamato%20(Shexyo).jpg",
+        "overlay_alpha": 70
+    },
+    "fonts": {},
+    "simple_colors": {
+        "background": 385875968,
+        "background_secondary": 637534208,
+        "mention_highlight": 1486955555,
+        "accent": -10712682,
+        "input_background": 1040187392
+    },
+    "colors": {
+        "primary_dark_100": -10712682,
+        "primary_dark_300": -2039584,
+        "primary_dark_360": -6960682,
+        "primary_dark_200": -394759,
+        "primary_dark_400": -2039584,
+        "primary_700": 1700563350,
+        "uikit_btn_bg_color_selector_red": -6216669,
+        "uikit_btn_bg_color_selector_secondary_dark": -6216669,
+        "uikit_settings_item_text_color_dark": -3092272,
+        "uikit_settings_item_text_color_light": -7303024,
+        "primary_630": 1466986608,
+        "link": -6960682
+    },
+    "drawable_tints": {
+        "drawable_button_red": -6216669,
+        "ic_ban_red_24dp": -6216669,
+        "drawable_overlay_channels_selected_dark": -1314839517,
+        "ic_sidebar_notifications_off_dark_24dp": -2039584,
+        "ic_sidebar_notifications_on_dark_24dp": -2039584,
+        "ic_sidebar_pins_off_dark_24dp": -2039584,
+        "ic_sidebar_pins_on_dark_24dp": -2039584,
+        "ic_thread": -2039584
+    },
+    "raws": {}
+}

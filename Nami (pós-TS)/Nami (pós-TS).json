@@ -1,0 +1,46 @@
+{
+    "manifest": {
+        "author": "Isadora ☭#2311",
+        "name": "Nami (pós-TS)",
+        "version": "1.0.0",
+        "updater": "https:\/\/raw.githubusercontent.com\/Isadora-URSS\/Aliucord-themes\/main\/Nami%20(p%C3%B3s-TS)\/Nami%20(p%C3%B3s-TS).json"
+    },
+    "background": {
+        "overlay_alpha": 60,
+        "url": "https:\/\/raw.githubusercontent.com\/Isadora-URSS\/Aliucord-themes\/main\/Nami%20(p%C3%B3s-TS)\/Nami%20(p%C3%B3s-TS).jpg"
+    },
+    "fonts": {},
+    "simple_colors": {
+        "background": 402653184,
+        "background_secondary": 855638016,
+        "accent": -1735335,
+        "input_background": 637534208,
+        "mention_highlight": 1048162702
+    },
+    "colors": {
+        "brand_new_560": -10321517,
+        "link": -8216125,
+        "primary_dark_200": -1,
+        "primary_dark_400": -2236963,
+        "primary_dark_300": -7218,
+        "primary_dark_360": -7218,
+        "primary_700": 1281524115,
+        "primary_630": -864341209,
+        "uikit_btn_bg_color_selector_green": -7749218,
+        "uikit_settings_item_text_color_dark": -2236963,
+        "uikit_settings_item_text_color_light": -5592406,
+        "brand_new_260": -7163453
+    },
+    "drawable_tints": {
+        "ic_sidebar_pins_off_dark_24dp": -7218,
+        "ic_sidebar_pins_on_dark_24dp": -7218,
+        "ic_sidebar_notifications_on_dark_24dp": -7218,
+        "ic_sidebar_notifications_off_dark_24dp": -7218,
+        "ic_spotify_green_24dp": -7749218,
+        "ic_done_green_24dp": -7749218,
+        "ic_checkmark_green_16dp": -7749218,
+        "ic_check_green_24dp": -7749218,
+        "drawable_button_grey": -5592406
+    },
+    "raws": {}
+}

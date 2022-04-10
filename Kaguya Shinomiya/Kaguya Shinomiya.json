@@ -1,0 +1,43 @@
+{
+    "manifest": {
+        "version": "1.0.0",
+        "author": "Isadora ☭#2311",
+        "name": "Kaguya Shinomiya",
+        "updater": "https:\/\/raw.githubusercontent.com\/Isadora-URSS\/Aliucord-themes\/main\/Kaguya%20Shinomiya\/Kaguya%20Shinomiya.json"
+    },
+    "background": {
+        "overlay_alpha": 75,
+        "url": "https:\/\/raw.githubusercontent.com\/Isadora-URSS\/Aliucord-themes\/main\/Kaguya%20Shinomiya\/Kaguya%20Shinomiya.jpg"
+    },
+    "fonts": {
+        "ginto_bold": "https:\/\/github.com\/Isadora-URSS\/Aliucord-themes\/raw\/main\/Kaguya%20Shinomiya\/Garnet%20Capitals%20Bold.ttf",
+        "ginto_medium": "https:\/\/github.com\/Isadora-URSS\/Aliucord-themes\/raw\/main\/Kaguya%20Shinomiya\/Garnet%20Capitals%20Bold.ttf"
+    },
+    "simple_colors": {
+        "background": 402653184,
+        "background_secondary": 855638016,
+        "mention_highlight": 1274672887,
+        "active_channel": -874314748,
+        "accent": -1899516,
+        "blocked_bg": 603979776
+    },
+    "colors": {
+        "uikit_btn_compound_color_selector_light": -3228489,
+        "primary_dark_200": -1,
+        "primary_dark_300": -3228489,
+        "primary_dark_360": -4144960,
+        "primary_dark_400": -4144960,
+        "primary_700": 1070513335,
+        "primary_630": 1267370634,
+        "uikit_settings_item_text_color_light": -6250336,
+        "uikit_btn_bg_color_selector_red": -1899516
+    },
+    "drawable_tints": {
+        "drawable_button_red": -1899516,
+        "ic_sidebar_pins_off_dark_24dp": -3228489,
+        "ic_sidebar_pins_on_dark_24dp": -3228489,
+        "ic_sidebar_notifications_on_dark_24dp": -3228489,
+        "ic_sidebar_notifications_off_dark_24dp": -3228489
+    },
+    "raws": {}
+}
